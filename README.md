@@ -2,7 +2,11 @@
 
 ***Git gut apprentice of tech arts***
 
-I'm 3-yeard collagge student at Lublin University of Technology, currently enering my engineer thesis. Most of my current projects are designed to teach me various proggraming languages/frameworks in order to widen my horisonts, discover my main tech stack and find an opportunity to enter IT jobs market. I steadly migrate from vanilla languages like Java or C++ to more sofisticted tools like SpringBoot. While managing my students chores and primaries activities I also experiment with embeded programming, mostly on ESP32.
+I am a 3rd-year student at Lublin University of Technology, currently working on my engineering thesis. My journey is driven by a desire to explore diverse programming paradigms and frameworks, helping me refine my primary tech stack and prepare for a professional career in IT.
+
+I am steadily transitioning from core languages like Java and C++ toward robust enterprise tools like SpringBoot. Outside of my academic curriculum, I enjoy experimenting with embedded systems, focusing primarily on the ESP32 platform.
+
+Throughout my academic journey, I have completed several specialized courses to build a strong foundation in network architecture, system development, and cybersecurity. You can find my verified certifications and training progress on my Cisco Networking Academy profile.
 
 
 ## Languages and tools
