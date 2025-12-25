@@ -8,6 +8,9 @@ I am steadily transitioning from core languages like Java and C++ toward robust 
 
 Throughout my academic journey, I have completed several specialized courses to build a strong foundation in network architecture, system development, and cybersecurity. You can find my verified certifications and training progress on my Cisco Networking Academy profile.
 
+## 🎓 Education & Learning
+* **Red Hat Academy Member**: Focused on Enterprise Linux and system administration.
+* **Cisco Networking Academy**: Gaining expertise in network architecture and cybersecurity.
 
 ## Languages and tools
 
